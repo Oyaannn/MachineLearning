@@ -1,1 +1,4 @@
-# MachineLearning
+## MachineLearning
+- Name  : MUHAMMAD IRPAN ARROYAN
+- NIM   : 20230040118
+- Lecturer : IVANA LUCIA KHARISMA, M.Kom
